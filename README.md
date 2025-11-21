@@ -48,7 +48,7 @@ GitHub-Repository: https://github.com/InputAutput/PYNQ-Z2-start-with-Jupyter-Not
 
 ## RU
 
-[![PYNQ-Z2 старт с Jupyter Notebook(https://img.youtube.com/vi/4Mx7QcXmw8E/maxresdefault.jpg)](https://youtu.be/4Mx7QcXmw8E)
+[![PYNQ-Z2 старт с Jupyter Notebook](https://img.youtube.com/vi/4Mx7QcXmw8E/maxresdefault.jpg)](https://youtu.be/4Mx7QcXmw8E)
 
 Видео: https://youtu.be/4Mx7QcXmw8E
 
